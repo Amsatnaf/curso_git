@@ -1,7 +1,7 @@
-#! /usr/bin/python2.7
+#! /bin/python3.6
 
 a = int(input('Didgite um numero: '))
 
 b = int(input('Didgite outro numero: '))
 
-print('A soma dos numeros: {}'.format(a + b))
+print(f'A soma dos numeros é: \033[31m{a + b}\033[m')
