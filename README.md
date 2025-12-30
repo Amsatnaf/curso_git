@@ -1,2 +1,2 @@
-# curso_git- Linha adicionada pelo treino teste se vai mudar
+# curso_git- Linha adicionada pelo treino. Você mudou ?
 - Linha adicionada pelo treino. Eu mudei
